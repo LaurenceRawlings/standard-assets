@@ -1,3 +1,9 @@
+## v0.2.1 (2022-02-08)
+
+### Fix
+
+- **camera controllers**: add meta files
+
 ## v0.2.0 (2022-02-08)
 
 ### Feat
