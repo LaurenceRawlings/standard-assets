@@ -1,13 +1,13 @@
 {
     "name": "com.laurencerawlings.utils",
     "version": "0.1.0",
-    "displayName": "Unity Utils",
-    "description": "This package contains common utility classes for Unity.",
+    "displayName": "Standard Assets",
+    "description": "This package contains standard assets for Unity.",
     "unity": "2019.4",
     "unityRelease": "35f1",
-    "documentationUrl": "https://github.com/LaurenceRawlings/unity-utils",
-    "changelogUrl": "https://github.com/LaurenceRawlings/unity-utils/CHNAGELOG.md",
-    "licensesUrl": "https://github.com/LaurenceRawlings/unity-utils/LICENSE.md",
+    "documentationUrl": "https://github.com/LaurenceRawlings/standard-assets",
+    "changelogUrl": "https://github.com/LaurenceRawlings/standard-assets/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/LaurenceRawlings/standard-assets/blob/main/LICENSE.md",
     "dependencies": {
         "com.unity.textmeshpro": "3.0.6"
     },
