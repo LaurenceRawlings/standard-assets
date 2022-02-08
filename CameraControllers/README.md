@@ -1,6 +1,6 @@
-# Standard Assets
+# Camera Controllers
 
-Standard assets for Unity
+Standard camera controllers for Unity
 
 ## Import into Unity
 
