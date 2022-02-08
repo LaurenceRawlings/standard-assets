@@ -1,5 +1,5 @@
 {
-    "name": "com.laurencerawlings.camera-controllers",
+    "name": "com.laurencerawlings.standard-assets.camera-controllers",
     "version": "0.1.0",
     "displayName": "Camera Controllers",
     "description": "This package contains standard camera controllers for Unity.",
