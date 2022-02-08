@@ -1,3 +1,9 @@
+## v0.2.2 (2022-02-08)
+
+### Fix
+
+- update assembly definition and namespace
+
 ## v0.2.1 (2022-02-08)
 
 ### Fix
