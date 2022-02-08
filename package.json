@@ -1,5 +1,5 @@
 {
-    "name": "com.laurencerawlings.utils",
+    "name": "com.laurencerawlings.standard-assets",
     "version": "0.1.0",
     "displayName": "Standard Assets",
     "description": "This package contains standard assets for Unity.",
@@ -12,7 +12,7 @@
         "com.unity.textmeshpro": "3.0.6"
     },
     "keywords": [
-        "utils"
+        "standard assets"
     ],
     "author": {
         "name": "Laurence Rawlings",

@@ -1,0 +1,21 @@
+{
+    "name": "com.laurencerawlings.camera-controllers",
+    "version": "0.1.0",
+    "displayName": "Camera Controllers",
+    "description": "This package contains standard camera controllers for Unity.",
+    "unity": "2019.4",
+    "unityRelease": "35f1",
+    "documentationUrl": "https://github.com/LaurenceRawlings/standard-assets/CameraControllers",
+    "changelogUrl": "https://github.com/LaurenceRawlings/standard-assets/blob/main/CameraControllers/CHANGELOG.md",
+    "licensesUrl": "https://github.com/LaurenceRawlings/standard-assets/blob/main/CameraControllers/LICENSE.md",
+    "dependencies": {},
+    "keywords": [
+        "standard assets",
+        "camera controllers"
+    ],
+    "author": {
+        "name": "Laurence Rawlings",
+        "email": "contact@laurencerawlings.com",
+        "url": "https://laurencerawlings.com"
+    }
+}
